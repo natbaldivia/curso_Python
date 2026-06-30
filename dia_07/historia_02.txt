@@ -1,0 +1,3 @@
+Criando um arquivo com PythonEscrevendo uma nova linha com modo append.
+Mais uma linha.
+E assim por diante.
