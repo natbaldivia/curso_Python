@@ -1,0 +1,47 @@
+[
+    {
+        "cep": "04195-090",
+        "logradouro": "Rua Ângelo Bertini",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Jardim Celeste",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    },
+    {
+        "cep": "04184-020",
+        "logradouro": "Rua dos Cariris Novos",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Jardim Santa Emília",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    },
+    {
+        "cep": "03071-000",
+        "logradouro": "Rua Cesário Galero",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Tatuapé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    }
+]
